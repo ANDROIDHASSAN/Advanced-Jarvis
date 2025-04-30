@@ -1,0 +1,194 @@
+[
+    {
+        "role": "user",
+        "content": "Who is narendra modi"
+    },
+    {
+        "role": "assistant",
+        "content": "Narendra Modi is an Indian politician who is currently serving as the 14th Prime Minister of India since 2014."
+    },
+    {
+        "role": "user",
+        "content": "what is the time"
+    },
+    {
+        "role": "assistant",
+        "content": "13 hours 34 minutes 00 seconds."
+    },
+    {
+        "role": "user",
+        "content": "what is your name"
+    },
+    {
+        "role": "assistant",
+        "content": "My name is None."
+    },
+    {
+        "role": "user",
+        "content": "what is your name"
+    },
+    {
+        "role": "assistant",
+        "content": "None"
+    },
+    {
+        "role": "user",
+        "content": "what is your name"
+    },
+    {
+        "role": "assistant",
+        "content": "None"
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "who are you"
+    },
+    {
+        "role": "assistant",
+        "content": "I am None, a very accurate and advanced AI chatbot."
+    },
+    {
+        "role": "user",
+        "content": "hi who are you"
+    },
+    {
+        "role": "assistant",
+        "content": "I am None, a very accurate and advanced AI chatbot."
+    },
+    {
+        "role": "user",
+        "content": "hi who are u"
+    },
+    {
+        "role": "assistant",
+        "content": "\u092e\u0948\u0902 \u090f\u0915 \u090f\u0921\u0935\u093e\u0902\u0938\u094d\u0921 \u090f\u0906\u0908 \u091a\u0948\u091f\u092c\u0949\u091f \u0939\u0942\u0901, \u091c\u093f\u0938\u0915\u093e \u0928\u093e\u092e None \u0939\u0948."
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "\u0928\u092e\u0938\u094d\u0924\u0947!"
+    },
+    {
+        "role": "user",
+        "content": "kon he tu"
+    },
+    {
+        "role": "assistant",
+        "content": "\u092e\u0948\u0902 \u090f\u0915 \u090f\u0921\u0935\u093e\u0902\u0938\u094d\u0921 \u090f\u0906\u0908 \u091a\u0948\u091f\u092c\u0949\u091f \u0939\u0942\u0901, \u091c\u093f\u0938\u0915\u093e \u0928\u093e\u092e None \u0939\u0948."
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "\u0928\u092e\u0938\u094d\u0924\u0947!"
+    },
+    {
+        "role": "user",
+        "content": "kon he tu"
+    },
+    {
+        "role": "assistant",
+        "content": "\u092e\u0948\u0902 None \u0939\u0942\u0901, \u090f\u0915 \u090f\u0921\u0935\u093e\u0902\u0938\u094d\u0921 \u090f\u0906\u0908 \u091a\u0948\u091f\u092c\u0949\u091f!"
+    },
+    {
+        "role": "user",
+        "content": "bhai tera naam kya he "
+    },
+    {
+        "role": "assistant",
+        "content": "My name is None."
+    },
+    {
+        "role": "user",
+        "content": "age"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm an AI, I don't have an age."
+    },
+    {
+        "role": "user",
+        "content": "time"
+    },
+    {
+        "role": "assistant",
+        "content": "13 hours 43 minutes 55 seconds."
+    },
+    {
+        "role": "user",
+        "content": "open youtube "
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a text-based AI, I don't have the capability to open YouTube or any other website. However, I can provide you with information or answers related to YouTube if you need it!"
+    },
+    {
+        "role": "user",
+        "content": "who is hassan kazi"
+    },
+    {
+        "role": "assistant",
+        "content": "Hassan Kazi is a popular Indian YouTuber and tech reviewer."
+    },
+    {
+        "role": "user",
+        "content": "remember that i am hassan and i am 19 years old from sandip university persuing my btech in computer science "
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Hassan! I remember that you're a 19-year-old student pursuing B.Tech in Computer Science at Sandip University."
+    },
+    {
+        "role": "user",
+        "content": "who am ai"
+    },
+    {
+        "role": "assistant",
+        "content": "You are Hassan Kazi, a 19-year-old student pursuing B.Tech in Computer Science at Sandip University."
+    },
+    {
+        "role": "user",
+        "content": "who is er hassan kazi on linkedin"
+    },
+    {
+        "role": "assistant",
+        "content": "ER Hassan Kazi on LinkedIn is you! A 3rd-year B.Tech CSE student with a passion for technology, innovation, and entrepreneurship, specializing in web development."
+    },
+    {
+        "role": "user",
+        "content": "Tell me everything about him"
+    },
+    {
+        "role": "assistant",
+        "content": "Based on our conversation, I can tell you that \"he\" is actually you, Hassan Kazi! You're a 19-year-old student pursuing B.Tech in Computer Science at Sandip University. You're also a popular Indian YouTuber and tech reviewer. You have a presence on LinkedIn, where you've shared your profile as ER Hassan Kazi, a 3rd-year B.Tech CSE student with a passion for technology, innovation, and entrepreneurship, specializing in web development."
+    },
+    {
+        "role": "user",
+        "content": "who is narendra modi"
+    },
+    {
+        "role": "assistant",
+        "content": "Narendra Modi is an Indian politician who has served as the 14th Prime Minister of India since 2014."
+    },
+    {
+        "role": "user",
+        "content": "how to make your own chatbot"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results I have, here are some ways to make your own chatbot:\n\n1. Set up your chatbot: Start in the Chatbots tab and select + Add chatbot field. Choose Website from the provided option.\n2. Use Langchain: If you can program, especially in Python, look into Langchain to make your own bots.\n3. Build a free AI Chatbot on Zapier: Create a free AI chatbot powered by OpenAI, with instant answers from multiple sources.\n4. Take a course: Enroll in a course like \"Build Your Own Chatbot\" on Cognitive Class, which provides a practical introduction to planning, building, and deploying your first chatbot.\n5. Use a chatbot builder: Learn how to build a chatbot with the Landbot chatbot builder, which simplifies customer interactions and improves lead generation and engagement on your website.\n\nThese are just a few examples, and there are many more resources available online to help you create your own chatbot!"
+    }
+]

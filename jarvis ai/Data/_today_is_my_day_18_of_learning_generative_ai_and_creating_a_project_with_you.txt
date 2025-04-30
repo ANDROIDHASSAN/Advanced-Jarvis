@@ -1,0 +1,12 @@
+Hello [Recipient],
+
+I am writing to update you on my progress in learning generative AI. Today marks day 18, and I am excited to share that I have started working on a project with your assistance.
+
+I have decided to create a chatbot using generative AI. This chatbot will be able to answer basic questions, provide information, and engage in simple conversations with users. I am looking forward to the challenge of building this chatbot and am grateful for your guidance and support.
+
+I am confident that this project will allow me to further develop my skills in generative AI and gain a deeper understanding of its capabilities. I am excited to see the final result and am grateful for the opportunity to learn and grow through this experience.
+
+Thank you for your continued support and encouragement. I look forward to sharing more updates with you as I progress in my project.
+
+Sincerely,
+[Your Name]

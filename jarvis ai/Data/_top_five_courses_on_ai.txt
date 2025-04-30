@@ -1,0 +1,9 @@
+Here are the top five courses on AI that I would recommend:
+
+1. Introduction to Artificial Intelligence (AI) by IBM on Coursera: This course provides a comprehensive overview of AI, including its history, applications, and key concepts. It covers topics such as machine learning, natural language processing, and robotics, and includes hands-on labs and quizzes to help students learn and apply the material.
+2. Artificial Intelligence A-Z™: Learn How To Build An AI by Kirill Eremenko on Udemy: This course covers a wide range of AI topics, including machine learning, deep learning, and neural networks. It includes real-world examples and projects, and is designed for both beginners and experienced programmers.
+3. Machine Learning by Andrew Ng on Coursera: This course is taught by one of the leading experts in the field of machine learning, and covers the fundamental concepts and algorithms of this rapidly growing area. It includes hands-on projects and quizzes, and is suitable for both beginners and experienced programmers.
+4. Deep Learning Specialization by Andrew Ng on Coursera: This specialization covers the fundamentals of deep learning, including neural networks, convolutional neural networks, and recurrent neural networks. It includes hands-on projects and quizzes, and is suitable for both beginners and experienced programmers.
+5. AI for Everyone by IBM on Coursera: This course is designed for non-technical learners, and covers the basics of AI, including its applications, ethics, and impact on society. It includes real-world examples and case studies, and is suitable for anyone interested in learning about AI.
+
+I hope these course recommendations are helpful in your AI learning journey!
